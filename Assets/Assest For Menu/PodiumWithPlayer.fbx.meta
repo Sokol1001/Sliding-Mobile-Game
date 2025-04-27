@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 025981cb25d98364f9f88201b0209212
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -5330912606686581581
+    second: Armature|Armature.001|Armature|Armature|mixamo.com|Layer0
+  - first:
+      74: -7204616430517128341
+    second: Armature|Armature.001|Armature|Ch36Action
+  - first:
+      74: 6759086803382991731
+    second: Armature|Armature|Armature|Armature|mixamo.com|Layer0
+  - first:
+      74: -1404550119059216980
+    second: Armature|Armature|Armature|Ch36Action
+  - first:
+      74: -4791504522942941401
+    second: Armature|Armature|mixamo.com|Layer0
+  - first:
+      74: 8241603758713378719
+    second: Armature|metarig.002|metarig.002|metarig.002|metarig|metarig|metarig
+  - first:
+      74: 4490458257121894142
+    second: Armature|metarig.002|metarig.002|metarig.002|metarig|metarig|metarig.001
+  - first:
+      74: -4659803927595517989
+    second: Armature|metarig.002|metarig.002|metarig.002|metarig|metarig|metarig.002
+  - first:
+      74: -4075187989529555146
+    second: Armature|metarig.002|metarig.002|metarig.002|metarig|metarig|metarig.003
+  - first:
+      74: -5162967329877156408
+    second: Armature|metarig.002|metarig.002|metarig.002|metarig|metarig|metarig|Ch3
+  - first:
+      74: -2072739144246848477
+    second: Armature|metarig.002|metarig.002|metarig.002|metarig|metarig|metarig|met
+  - first:
+      74: -7461108314218055640
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig.001|metarig.001
+  - first:
+      74: 3576644757258037277
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig.001|metarig.002
+  - first:
+      74: -7242183331597087157
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig.001|metarig.003
+  - first:
+      74: -4285143597856943660
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig|metarig|met
+  - first:
+      74: 7171861801519002374
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig|metarig|met.001
+  - first:
+      74: 4240501784397654231
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig|metarig|met.002
+  - first:
+      74: -3665987272493358794
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig|metarig|met.003
+  - first:
+      74: -3216291461587332702
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig|metarig|met.004
+  - first:
+      74: 2174386710356886256
+    second: Armature|metarig.002|metarig.002|metarig|metarig|metarig|metarig|metarig
+  - first:
+      74: 8997693172198711643
+    second: Armature|metarig|metarig|Ch36Action
+  - first:
+      74: -7281034646571913454
+    second: Armature|metarig|metarig|Ch36Action.001
+  - first:
+      74: -2862284945906898215
+    second: Armature|metarig|metarig|metarig.002|metarig|metarig|metarig|Ch36Act
+  - first:
+      74: -5237109087512761469
+    second: Armature|metarig|metarig|metarig.002|metarig|metarig|metarig|Ch36Act.001
+  - first:
+      74: -7018465380089354609
+    second: Armature|metarig|metarig|metarig.002|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: -7575810939414096018
+    second: Armature|metarig|metarig|metarig.002|metarig|metarig|metarig|metarig
+  - first:
+      74: -2008022078582162659
+    second: Armature|metarig|metarig|metarig.002|metarig|metarig|metarig|metarig.001
+  - first:
+      74: 5424449737750939626
+    second: Armature|metarig|metarig|metarig.002|metarig|metarig|metarig|metarig|met
+  - first:
+      74: 6365835503099239876
+    second: Armature|metarig|metarig|metarig|metarig|Armature|mixamo.com|Layer0.
+  - first:
+      74: -8608686822613443747
+    second: 'Armature|metarig|metarig|metarig|metarig|Armature|mixamo.com|Layer0.001 '
+  - first:
+      74: -4506445110750508916
+    second: Armature|metarig|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: -1935762193440436625
+    second: Armature|metarig|metarig|metarig|metarig|Ch36Action.001
+  - first:
+      74: -6792173371870115156
+    second: Armature|metarig|metarig|metarig|metarig|metarig.001|metarig.001|met
+  - first:
+      74: 8700475718594791075
+    second: Armature|metarig|metarig|metarig|metarig|metarig.001|metarig.001|met.001
+  - first:
+      74: -7255416532029400057
+    second: Armature|metarig|metarig|metarig|metarig|metarig.001|metarig.001|metarig
+  - first:
+      74: 1467429993407559001
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|Armature|mi
+  - first:
+      74: -2606228013694628211
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|Armature|mixamo
+  - first:
+      74: 1370418634289404186
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: -8750293872597858126
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|metarig|met
+  - first:
+      74: 820183275963211089
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|metarig|met.001
+  - first:
+      74: -4669279525469560373
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|metarig|met.002
+  - first:
+      74: 4505483149053842907
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|metarig|met.003
+  - first:
+      74: 3676629401467833235
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|metarig|met.004
+  - first:
+      74: 5259831870581133638
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|metarig|met.005
+  - first:
+      74: 2729726966515721728
+    second: Armature|metarig|metarig|metarig|metarig|metarig|metarig|metarig|metarig
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 6f98ec87920f6864db46d5d03e616125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: c6749ee3998ce734a9b00639b11d0299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 5e9701a70c045ab4285aca9ea7b6efdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 4448a1662cdd5c2428096f6fa23cb46f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 3fc5b8d23f57c6347a448153ee56ddd4, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.005_baseColor
+    second: {fileID: 2800000, guid: 0e90b6f82a694964fba4df38b12e5e91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.007_baseColor
+    second: {fileID: 2800000, guid: 7d442d53c3e90a3408a008a2369382ca, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

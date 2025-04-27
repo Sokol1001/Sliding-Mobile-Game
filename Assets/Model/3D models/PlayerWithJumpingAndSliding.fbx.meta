@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: ac7b88617bce3764fb3cc6d4688798a6
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 349266871234803808
+    second: metarig|metarig.002|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: -7683388455635752633
+    second: metarig|metarig.002|metarig|metarig|metarig|metarig|metarig|Armature|mi
+  - first:
+      74: -6205271564937543952
+    second: metarig|metarig|metarig|metarig.001|metarig.001|metarig.001Action
+  - first:
+      74: 6436582278961032779
+    second: metarig|metarig|metarig|metarig|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: 8143424054127396244
+    second: metarig|metarig|metarig|metarig|metarig|metarig|metarig|metarig|metarig
+  - first:
+      74: 3661696246841616090
+    second: metarig.001|metarig.001|metarig.001|metarig.001Action
+  - first:
+      74: 8407556528179109274
+    second: metarig.001|metarig.001|metarig.001|metarig.001|metarig.001|metarig.001Acti
+  - first:
+      74: 7741613590152144
+    second: metarig.001|metarig.001|metarig.001|metarig.001|metarig.001|metarig|met
+  - first:
+      74: 7449453456568910945
+    second: metarig.001|metarig.001|metarig.001|metarig.001|metarig.001|metarig|metarig
+  - first:
+      74: -2452194581775611398
+    second: metarig.001|metarig.001|metarig.001|metarig|metarig|metarig|metarig|Ch36Act
+  - first:
+      74: 4465742426002679690
+    second: metarig.001|metarig.001|metarig.001|metarig|metarig|metarig|metarig|metarig
+  - first:
+      74: -3733007306017215345
+    second: metarig.001|metarig.002|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: 5605675130599229623
+    second: metarig.001|metarig.002|metarig|metarig|metarig|metarig|metarig|Armature|mi
+  - first:
+      74: -8289923788271462778
+    second: metarig.001|metarig.003|metarig.001|metarig.001Action
+  - first:
+      74: -2408321819183539116
+    second: metarig.001|metarig.003|metarig.001|metarig|metarig|Ch36Action
+  - first:
+      74: 8995522128238948679
+    second: metarig.001|metarig.003|metarig.001|metarig|metarig|metarig|metarig|Armatur
+  - first:
+      74: 78528090338831987
+    second: metarig.001|metarig|metarig|metarig.001|metarig.001|metarig.001Action
+  - first:
+      74: 6473091416362083538
+    second: metarig.001|metarig|metarig|metarig|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: 3171148959440395469
+    second: metarig.001|metarig|metarig|metarig|metarig|metarig|metarig|metarig|metarig
+  - first:
+      74: -6643698384826307499
+    second: metarig.002|metarig.002|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: -1821867387599512954
+    second: metarig.002|metarig.002|metarig|metarig|metarig|metarig|metarig|Armature|mi
+  - first:
+      74: 1791506188871718957
+    second: metarig.002|metarig|metarig|metarig.001|metarig.001|metarig.001Action
+  - first:
+      74: 4283938256129258148
+    second: metarig.002|metarig|metarig|metarig|metarig|metarig|metarig|Ch36Action
+  - first:
+      74: 5304292175304018197
+    second: metarig.002|metarig|metarig|metarig|metarig|metarig|metarig|metarig|metarig
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

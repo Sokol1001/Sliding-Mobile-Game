@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &43745064448809571
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 43745064448809569}
+  - component: {fileID: 43745064448809570}
+  - component: {fileID: 43745064448809568}
+  m_Layer: 0
+  m_Name: SlideSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &43745064448809569
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 43745064448809571}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 18.124031}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &43745064448809570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 43745064448809571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c458ba5a9f92c5d488fa3be41f421aa6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  obstacleSpawner: {fileID: 0}
+  slidePrefabVariant:
+  - {fileID: 2985616714061800892, guid: 427c175253786544b84f547e7557efd9, type: 3}
+  spaceShip: {fileID: 0}
+  fireRing: {fileID: 4005167034855804913, guid: e5cf31948c972db43bbbf59bfc97dca5, type: 3}
+  iceRing: {fileID: 2456907632974219323, guid: 3cf797c4c5b7ce449a68b6582b8185c7, type: 3}
+  spacePendulum: {fileID: 8157269746923409908, guid: 11c456b5e822812479414a2c39b933b1, type: 3}
+  axePendulum: {fileID: 2815298927078229639, guid: 699482ba63250394fae099389aff87f4, type: 3}
+  asteroidsArrows: {fileID: 4787103412152950008, guid: de479ce9bd7c1b44c84f3b4e7b67d171, type: 3}
+  snowballArrows: {fileID: 1336183644048047777, guid: c926e1a2db6305049bc5585fd2628d6d, type: 3}
+  jungleArrows: {fileID: 5306263026735826885, guid: 2d681a7f4c52fb740a3a1aa5ee67d2f7, type: 3}
+  snow: {fileID: 0}
+  levelMat: {fileID: 2100000, guid: aa93365670a25864c9340cea48b9b42b, type: 2}
+  jungleMat: {fileID: 2100000, guid: fa77bbff23b1fa94c8df5335e7a62d43, type: 2}
+  player: {fileID: 0}
+  ObstaclePoint_a: {fileID: 0}
+  ObstaclePoint_pos: {fileID: 0}
+  ObstaclePoint_transform: {fileID: 0}
+  spawnPoints_a_transform: {fileID: 0}
+  spawnPoints_b_transform: {fileID: 0}
+  spawnPoint_Back_transform:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  spawnPoint_a: {fileID: 0}
+  spawnPoint_b: {fileID: 0}
+  arrowRightSpawnPointRB: {fileID: 0}
+  arrowLeftSpawnPointRB: {fileID: 0}
+  arrowRightSpawnPoint: {fileID: 0}
+  arrowLeftSpawnPoint: {fileID: 0}
+  arrowRightSpawnPoint_transform: {fileID: 0}
+  arrowLeftSpawnPoint_transform: {fileID: 0}
+  spawnPointRB_a: {fileID: 0}
+  spawnPointRB_b: {fileID: 0}
+  spawnPoint_Back: []
+  slideSpawnInterval: 3
+  forwardSpeed: 52
+  regularForwardSpeedSpaceShip: 30
+  newForwardSpeedSpaceShip: 29.96
+  downwardSpeed: 0
+  canSpawn: 1
+  backGroundPrefabsSpace:
+  - {fileID: 103884, guid: ece113bb09a725547ad15c6e1794fbe0, type: 3}
+  - {fileID: 103884, guid: 7f7566e20b9ffe54798c1bf42201e1a9, type: 3}
+  - {fileID: 8366047170878595167, guid: 2a47663cccbd57746a0802b652f67704, type: 3}
+  - {fileID: 6498166983722715926, guid: 0b3a7afd54070414d8645de1cde68bc5, type: 3}
+  - {fileID: 136928, guid: 01538f1c3c3e04848889987a7bca8e63, type: 3}
+  backGroundPrefabsSnow:
+  - {fileID: 5794732828114279908, guid: befcec86790da9b4b9c1b4fddfba6b96, type: 3}
+  - {fileID: 1895695235693458022, guid: 9b8de65f16ab8b7439007ec1a12abe88, type: 3}
+  backGroundPrefabsJungle:
+  - {fileID: 5983988413505315707, guid: fbde515b51300604abad77e8ca448591, type: 3}
+  isSpace: 0
+  isSnow: 0
+  isDefault: 0
+  isJungle: 0
+  spaceSkyBox: {fileID: 0}
+  pinkMaterial: {fileID: 2100000, guid: c3fb429a779ba774e98142b32f162138, type: 2}
+  greenMaterial: {fileID: 2100000, guid: 68920f400b8d7c94295551ce3a31d608, type: 2}
+  grayMaterial: {fileID: 2100000, guid: d2d28ea9f14787541a4521c0697f22d3, type: 2}
+  soundTracks:
+  - {fileID: 8300000, guid: 3cd4a5af8271dbf4bb9fac14d8a902c6, type: 3}
+  - {fileID: 8300000, guid: 36e403c6270912d479f681aafc7e4b88, type: 3}
+  - {fileID: 8300000, guid: a0e00f86d9dd9b243b151fc4824490ec, type: 3}
+  - {fileID: 8300000, guid: 908c5488d08169641b0f26036a3353b6, type: 3}
+  - {fileID: 8300000, guid: fb5aae559c1285d489e232f3b5dbf6f7, type: 3}
+--- !u!82 &43745064448809568
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 43745064448809571}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

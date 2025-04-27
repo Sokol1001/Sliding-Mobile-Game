@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Slide
+  - Coin
+  - SpaceShip
+  - BackGround
+  - SlideSpawner
+  - BackGroundSpawner
+  - FireRing
+  - Obstacle
+  - SkinAffect
+  - Padlock
+  - Skin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Top
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bottom
+    uniqueID: 3892557611
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top Layer
+    uniqueID: 3677218435
+    locked: 0
